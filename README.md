@@ -17,8 +17,8 @@ People use them as a speed contest, interview prep, company training, university
 <li> [X] 🎅 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day01.ipynb">Day 1</a>
 <li> [X] 🎁 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day02.ipynb">Day 2</a>
 <li> [X] 🎄 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day03.ipynb">Day 3</a>
-<li> [ ] 🌠 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day04.ipynb">Day 4</a>
-<li> [ ] 🍰 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day05.ipynb">Day 5</a>
+<li> [X] 🌠 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day04.ipynb">Day 4</a>
+<li> [X] 🍰 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day05.ipynb">Day 5</a>
 </ul>
 </td>
 
@@ -63,3 +63,12 @@ People use them as a speed contest, interview prep, company training, university
 </td>
 </tr>
 </table>
+
+
+
+**Past editions**
+
+ * [Advent of Code 2020 (Python)](https://github.com/ameroyer/advent_of_code_2020)
+ * [Advent of Code 2019 (Python)](https://github.com/ameroyer/advent_of_code_2019)
+ * [Advent of Code 2018 (Python)](https://github.com/ameroyer/advent_of_code_2018)
+ * [Advent of Code 2017 (OCaml)](https://github.com/ameroyer/advent_of_code_2017)
