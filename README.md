@@ -34,7 +34,7 @@ People use them as a speed contest, interview prep, company training, university
 
 <td>
 <ul>
-<li> [ ] 🍲 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day11.ipynb">Day 11</a>
+<li> [X] 🍲 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day11.ipynb">Day 11</a>
 <li> [ ] 🎆 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day12.ipynb">Day 12</a>
 <li> [ ] 🍭 <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day13.ipynb">Day 13</a>
 <li> [ ] ☕ <a href="https://github.com/ameroyer/advent_of_code_2020/blob/master/day14.ipynb">Day 14</a>
